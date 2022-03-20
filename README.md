@@ -1,6 +1,8 @@
 # Hi there 👋, I am Samoilov Eugene
+I love IT and am actively developing in QA. Ready to join the project as a QA automation engineer.
 
 [Write me in Telegram](http://t.me/Samoiloff90)
+[<img title="Telegram" alt="Samoiloff | Telegram" width="30px" src="https://telegram.org/favicon.ico">](https://t.me/Samoiloff90)
 
 ### Web development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
