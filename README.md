@@ -35,6 +35,5 @@ I love IT and am actively developing in QA. Ready to join the project as a QA au
 <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
 
-<!-- ![Krushnat's github stats](https://github-readme-stats.vercel.app/api?username=Samoiloff90&show_icons=true) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samoiloff90&layout=compact)](https://github.com/Samoiloff90/github-readme-stats)
