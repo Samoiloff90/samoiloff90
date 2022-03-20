@@ -36,4 +36,5 @@ I love IT and am actively developing in QA. Ready to join the project as a QA au
 
 
 <!-- ![Krushnat's github stats](https://github-readme-stats.vercel.app/api?username=Samoiloff90&show_icons=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samoiloff90&layout=compact)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samoiloff90&layout=compact)](https://github.com/Samoiloff90/github-readme-stats)
