@@ -37,4 +37,4 @@ I love IT and am actively developing in QA. Ready to join the project as a QA au
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samoiloff90&layout=compact)](https://github.com/Samoiloff90/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samoiloff90&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samoiloff90&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
