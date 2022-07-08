@@ -1,4 +1,8 @@
+
 <div id="header" align="center">
+<div align="center">
+  <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="250"/>
+</div>
 
 <div id="badges">
     <a href="https://t.me/Samoiloff90">
