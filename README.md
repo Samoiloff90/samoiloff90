@@ -34,7 +34,7 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I read tech articles and run..
+- :metal: In my free time, I read tech articles and run.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Samoilov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samoiloff/)
 
