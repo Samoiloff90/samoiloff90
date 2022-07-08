@@ -1,10 +1,3 @@
-<div id="header" align="center">
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="" height="100"/>
-</div>
-  
-
-
 <div id="badges">
     <a href="https://t.me/Samoiloff90">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
