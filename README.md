@@ -13,7 +13,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=Samoiloff90&style=flat-square&color=blue" alt=""/>
 <h1>
-  Hey there 👋
+  Hey there 👋 my name is Evgeniy. Let's code!
 </h1>
 </div>
 
