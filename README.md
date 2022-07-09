@@ -54,5 +54,9 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Samoiloff90&theme=dark&locale=en)](https://github.com/Samoiloff90)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samoiloff90&layout=compact&theme=vision-friendly-dark)](https://github.com/Samoiloff90)
+<p>
+<a href="https://github.com/Samoiloff90">
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Samoiloff90&theme=dark&locale=en"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samoiloff90&layout=compact&theme=vision-friendly-dark"/>
+</a>
+</p>
