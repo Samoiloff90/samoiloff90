@@ -7,6 +7,7 @@ X5 Tech, ранее Сбер · Москва
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=%D0%A0%D0%B0%D0%B7%D0%B2%D0%B8%D0%B2%D0%B0%D1%8E+%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D1%8B%D0%B5+%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B;%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F+%D0%BD%D0%B0+%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B5+%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7+%D0%B8+%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA;%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%8F%D1%8E+%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81+%D0%B8+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D1%83;%D0%9E%D1%82+%D0%B8%D0%B4%D0%B5%D0%B8+%D0%B4%D0%BE+MVP+%D0%B8+%D1%80%D0%BE%D1%81%D1%82%D0%B0+%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA" alt="Развиваю цифровые продукты · Решения на основе гипотез и метрик · Соединяю бизнес и разработку · От идеи до MVP и роста метрик"/>
 
+<a href="https://samoiloff90.github.io"><img src="https://img.shields.io/badge/%D0%A1%D0%B0%D0%B9%D1%82--%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-2458D6?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTEyIDJhMTQuNSAxNC41IDAgMCAwIDAgMjAgMTQuNSAxNC41IDAgMCAwIDAtMjAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjwvc3ZnPg==" alt="Сайт-резюме"/></a>
 <a href="https://t.me/Samoiloff90"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="https://www.linkedin.com/in/samoiloff/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMTI4IDEyOCI+PHBhdGggZD0iTTExNiAzSDEyYTguOTEgOC45MSAwIDAwLTkgOC44djEwNC40MmE4LjkxIDguOTEgMCAwMDkgOC43OGgxMDRhOC45MyA4LjkzIDAgMDA5LTguODFWMTEuNzdBOC45MyA4LjkzIDAgMDAxMTYgM3pNMzkuMTcgMTA3SDIxLjA2VjQ4LjczaDE4LjExem0tOS02Ni4yMWExMC41IDEwLjUgMCAxMTEwLjQ5LTEwLjUgMTAuNSAxMC41IDAgMDEtMTAuNTQgMTAuNDh6TTEwNyAxMDdIODguODlWNzguNjVjMC02Ljc1LS4xMi0xNS40NC05LjQxLTE1LjQ0cy0xMC44NyA3LjM2LTEwLjg3IDE1VjEwN0g1MC41M1Y0OC43M2gxNy4zNnY4aC4yNGMyLjQyLTQuNTggOC4zMi05LjQxIDE3LjEzLTkuNDFDMTAzLjYgNDcuMjggMTA3IDU5LjM1IDEwNyA3NXoiLz48L3N2Zz4=" alt="LinkedIn"/></a>
 <a href="mailto:i@samoiloff90.ru"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0yMCA0SDRjLTEuMSAwLTIgLjktMiAydjEyYzAgMS4xLjkgMiAyIDJoMTZjMS4xIDAgMi0uOSAyLTJWNmMwLTEuMS0uOS0yLTItMnptMCA0LTggNS04LTVWNmw4IDUgOC01djJ6Ii8+PC9zdmc+" alt="Email"/></a>
@@ -126,6 +127,8 @@ flowchart LR
 ---
 
 <div align="center">
+
+Полное резюме — на [samoiloff90.github.io](https://samoiloff90.github.io)
 
 Написать проще всего в [Telegram](https://t.me/Samoiloff90) или на [i@samoiloff90.ru](mailto:i@samoiloff90.ru)
 
